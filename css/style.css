@@ -1,0 +1,6 @@
+.navbar-brand img {
+    max-height: 2rem;
+}
+nav, footer {
+    background-color: rgb(19, 117, 19);
+}
